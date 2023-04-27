@@ -12,7 +12,7 @@ Maker Media GmbH
 
 ![Picture](./Aufmacher.jpg) 
 
-Den vollständigen Artikel gibt es in der [Make 2/23 ab Seite !!!]().
+Den vollständigen Artikel gibt es in der [Make 2/23 ab Seite 82](https://www.heise.de/select/make/2023/2/2304614081261675229).
 
 
 
